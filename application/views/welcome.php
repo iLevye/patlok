@@ -1,8 +1,10 @@
 <html>
 <head>
 	<title></title>
+	<script type="text/javascript" src="script/jquery-1.11.3.min.js"></script>
 	<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
 	<script src="semantic/dist/semantic.min.js"></script>
+
 </head>
 <body>
 
