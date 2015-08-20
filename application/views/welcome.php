@@ -18,7 +18,7 @@
 
 	<div class="ui doubling grid container">
 	  <div class="column eight wide centered" style="margin-top:100px;">
-	  	<div class="ui two column middle aligned very relaxed stackable grid">
+	  	<div class="ui two column middle aligned very relaxed stackable grid segment raised">
 		  <div class="column">
 		    <div class="ui form">
 		      <div class="field">
@@ -50,6 +50,17 @@
 		</div>
 	  </div>
 	</div>
+
+	 <div class="ui divider" style="margin-top:190px;"></div>
+    <div class="ui large footer">
+        <div class="ui footer container">
+            <footer class="ui row">
+                <div class="eight wide column">
+                    <p class="copyright">© Copyright no one at all. Go to town.</p>
+                </div>
+            </footer>
+        </div>
+    </div>
 
 	
 </body>
